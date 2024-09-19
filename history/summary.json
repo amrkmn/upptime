@@ -4,19 +4,19 @@
     "url": "https://reddviz.amar.kim/gimme",
     "icon": "https://icons.duckduckgo.com/ip3/reddviz.amar.kim.ico",
     "slug": "redd-viz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 614,
-    "timeWeek": 871,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 621,
+    "timeDay": 548,
+    "timeWeek": 820,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 17
     }
   },
   {
