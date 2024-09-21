@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddviz.amar.kim.ico",
     "slug": "redd-viz",
     "status": "down",
-    "uptime": "97.49%",
-    "uptimeDay": "63.53%",
-    "uptimeWeek": "94.62%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "97.49%",
+    "uptime": "97.45%",
+    "uptimeDay": "62.94%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
     "time": 727,
     "timeDay": 1077,
     "timeWeek": 949,
     "timeMonth": 727,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2024-09-21": 509,
+      "2024-09-21": 518,
       "2024-09-20": 16,
       "2024-09-19": 17
     }
@@ -64,19 +64,19 @@
     "url": "mc.amar.kim",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 20,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 19,
     "timeDay": 9,
-    "timeWeek": 19,
-    "timeMonth": 20,
-    "timeYear": 20,
+    "timeWeek": 18,
+    "timeMonth": 19,
+    "timeYear": 19,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 9
     }
   }
 ]
