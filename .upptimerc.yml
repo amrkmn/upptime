@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: ReddViz
     url: https://reddviz.amar.kim/gimme
-  - name: ReddViz 2
+  - name: ReddViz Deno
     url: https://reddviz.deno.dev/gimme
   - name: HasteBin
     url: https://hst.ujol.dev
