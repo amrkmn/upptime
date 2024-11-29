@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddviz.amar.kim.ico",
     "slug": "redd-viz",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.30%",
+    "uptimeYear": "98.31%",
     "time": 610,
     "timeDay": 328,
     "timeWeek": 494,
@@ -63,17 +63,19 @@
     "url": "https://dumb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.onrender.com.ico",
     "slug": "dumb",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 28548,
     "timeDay": 28548,
     "timeWeek": 28548,
     "timeMonth": 28548,
     "timeYear": 28548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-29": 0
+    }
   }
 ]
