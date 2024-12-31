@@ -13,7 +13,7 @@
     "time": 573,
     "timeDay": 369,
     "timeWeek": 382,
-    "timeMonth": 449,
+    "timeMonth": 453,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2024-09-22": 630,
@@ -28,19 +28,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddviz.deno.dev.ico",
     "slug": "redd-viz-deno",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2072,
     "timeDay": 2169,
     "timeWeek": 2301,
-    "timeMonth": 2157,
+    "timeMonth": 2190,
     "timeYear": 2072,
-    "dailyMinutesDown": {
-      "2024-12-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HasteBin",
@@ -56,7 +54,7 @@
     "time": 586,
     "timeDay": 643,
     "timeWeek": 600,
-    "timeMonth": 601,
+    "timeMonth": 602,
     "timeYear": 586,
     "dailyMinutesDown": {}
   },
@@ -69,12 +67,12 @@
     "uptime": "99.21%",
     "uptimeDay": "98.80%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.21%",
     "time": 2256,
     "timeDay": 787,
     "timeWeek": 476,
-    "timeMonth": 1728,
+    "timeMonth": 1865,
     "timeYear": 2256,
     "dailyMinutesDown": {
       "2024-12-30": 17,
