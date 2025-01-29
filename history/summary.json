@@ -27,10 +27,10 @@
     "url": "https://reddviz.deno.dev/gimme",
     "icon": "https://icons.duckduckgo.com/ip3/reddviz.deno.dev.ico",
     "slug": "redd-viz-deno",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2125,
@@ -38,7 +38,9 @@
     "timeWeek": 2187,
     "timeMonth": 2301,
     "timeYear": 2125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "HasteBin",
@@ -64,13 +66,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/dumb.onrender.com.ico",
     "slug": "dumb",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "98.67%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 1565,
-    "timeDay": 852,
+    "timeDay": 667,
     "timeWeek": 535,
     "timeMonth": 486,
     "timeYear": 1565,
