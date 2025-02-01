@@ -47,18 +47,20 @@
     "url": "https://hst.ujol.dev",
     "icon": "https://icons.duckduckgo.com/ip3/hst.ujol.dev.ico",
     "slug": "haste-bin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 646,
-    "timeWeek": 618,
-    "timeMonth": 616,
-    "timeYear": 592,
-    "dailyMinutesDown": {}
+    "time": 770,
+    "timeDay": 14570,
+    "timeWeek": 4102,
+    "timeMonth": 1488,
+    "timeYear": 770,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Dumb",
