@@ -67,7 +67,7 @@
     "url": "https://dumb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.onrender.com.ico",
     "slug": "dumb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "98.89%",
     "uptimeWeek": "99.27%",
@@ -79,6 +79,7 @@
     "timeMonth": 558,
     "timeYear": 1257,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-20": 16,
       "2025-02-18": 35,
       "2025-02-16": 23,
