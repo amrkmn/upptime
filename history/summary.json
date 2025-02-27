@@ -4,19 +4,19 @@
     "url": "https://id.ujol.dev/health",
     "icon": "https://icons.duckduckgo.com/ip3/id.ujol.dev.ico",
     "slug": "pocket-id",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 689,
-    "timeDay": 693,
-    "timeWeek": 689,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 681,
+    "timeDay": 679,
+    "timeWeek": 681,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 18
     }
   },
   {
