@@ -69,9 +69,9 @@
     "url": "https://reddviz.deno.dev/gimme",
     "icon": "https://icons.duckduckgo.com/ip3/reddviz.deno.dev.ico",
     "slug": "redd-viz-deno",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -81,6 +81,7 @@
     "timeMonth": 1764,
     "timeYear": 2068,
     "dailyMinutesDown": {
+      "2025-05-28": 0,
       "2025-01-29": 17
     }
   },
@@ -117,7 +118,7 @@
     "uptimeMonth": "98.28%",
     "uptimeYear": "98.78%",
     "time": 1346,
-    "timeDay": 681,
+    "timeDay": 812,
     "timeWeek": 477,
     "timeMonth": 1397,
     "timeYear": 1346,
