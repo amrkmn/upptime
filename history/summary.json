@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ujol.dev.ico",
     "slug": "pocket-id",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "97.32%",
-    "uptimeYear": "96.83%",
+    "uptimeYear": "96.84%",
     "time": 851,
     "timeDay": 792,
-    "timeWeek": 769,
+    "timeWeek": 764,
     "timeMonth": 799,
     "timeYear": 851,
     "dailyMinutesDown": {
@@ -114,12 +114,12 @@
     "url": "https://dumb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.onrender.com.ico",
     "slug": "dumb",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "98.22%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "98.21%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 1455,
     "timeDay": 614,
     "timeWeek": 4831,
@@ -204,8 +204,7 @@
       "2024-12-31": 23,
       "2024-12-30": 17,
       "2024-12-26": 35,
-      "2024-12-22": 32,
-      "2024-12-16": 16
+      "2024-12-22": 32
     }
   }
 ]
