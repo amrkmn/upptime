@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.ujol.dev.ico",
     "slug": "pocket-id",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "96.94%",
+    "uptimeYear": "96.96%",
     "time": 844,
     "timeDay": 764,
     "timeWeek": 733,
@@ -115,12 +115,12 @@
     "url": "https://dumb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.onrender.com.ico",
     "slug": "dumb",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "95.92%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "95.91%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "98.42%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 1518,
     "timeDay": 1361,
     "timeWeek": 2953,
@@ -203,8 +203,7 @@
       "2025-01-28": 19,
       "2025-01-25": 20,
       "2025-01-24": 21,
-      "2025-01-21": 17,
-      "2024-12-31": 23
+      "2025-01-21": 17
     }
   }
 ]
