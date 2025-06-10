@@ -115,18 +115,19 @@
     "url": "https://dumb.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.onrender.com.ico",
     "slug": "dumb",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "97.62%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "97.61%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "98.50%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 1516,
     "timeDay": 12899,
     "timeWeek": 5122,
     "timeMonth": 2697,
     "timeYear": 1516,
     "dailyMinutesDown": {
+      "2025-06-10": 0,
       "2025-06-09": 34,
       "2025-06-05": 44,
       "2025-06-04": 31,
@@ -204,8 +205,7 @@
       "2025-01-24": 21,
       "2025-01-21": 17,
       "2024-12-31": 23,
-      "2024-12-30": 17,
-      "2024-12-26": 35
+      "2024-12-30": 17
     }
   }
 ]
